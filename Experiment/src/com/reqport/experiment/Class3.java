@@ -7,12 +7,12 @@ package com.reqport.experiment;
  * @author sef
  *
  */
-public class Class1 implements IClass {
+public class Class3 implements IClass {
 
 	/**
 	 * 
 	 */
-	public Class1() {
+	public Class3() {
 		// TODO Auto-generated constructor stub
 	}
 

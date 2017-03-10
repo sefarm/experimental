@@ -7,7 +7,7 @@ package com.reqport.experiment;
  * @author sef
  *
  */
-public class Class1 {
+public class Class1 implements IClass {
 
 	/**
 	 * 

@@ -20,4 +20,9 @@ public class Class1 implements IClass {
 	{
 		System.out.println(this.getClass().getSimpleName() + ".doit()");
 	}
+	
+	public void insignificantChange()
+	{
+		
+	}
 }

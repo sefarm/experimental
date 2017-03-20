@@ -19,6 +19,11 @@ public class Experiment {
 	{
 		
 	}
+	
+	public void onlyInFeature2()
+	{
+		
+	}
 
 	/**
 	 * @param args

@@ -20,10 +20,11 @@ public class Experiment {
 		
 	}
 	
-	public void onlyInFeature2()
+	public void addedInFeature2()
 	{
 		
 	}
+	
 
 	/**
 	 * @param args

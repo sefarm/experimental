@@ -9,6 +9,8 @@ package com.reqport.experiment;
  */
 public class Class1 implements IClass {
 
+	int oneChange ;
+	
 	/**
 	 * 
 	 */

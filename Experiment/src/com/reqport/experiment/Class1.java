@@ -9,6 +9,8 @@ package com.reqport.experiment;
  */
 public class Class1 implements IClass {
 
+	int oneChange ;
+	
 	/**
 	 * 
 	 */
@@ -21,8 +23,8 @@ public class Class1 implements IClass {
 		System.out.println(this.getClass().getSimpleName() + ".doit()");
 	}
 	
-	
-	public void blurg()
+
+	public void insignificantChange()
 	{
 		
 	}

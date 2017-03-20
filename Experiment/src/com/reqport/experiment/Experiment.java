@@ -26,6 +26,8 @@ public class Experiment {
 	}
 	
 	int oneMoreChange ;
+	
+	int f3 ;
 
 	/**
 	 * @param args

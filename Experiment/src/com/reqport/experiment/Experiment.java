@@ -14,6 +14,11 @@ public class Experiment {
 	 */
 	public Experiment() {
 	}
+	
+	public void oneChange()
+	{
+		
+	}
 
 	/**
 	 * @param args

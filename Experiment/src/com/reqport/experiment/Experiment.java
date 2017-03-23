@@ -28,6 +28,8 @@ public class Experiment {
 	int oneMoreChange ;
 	
 	int f3 ;
+	
+	int changeFromOtherUser ;
 
 	/**
 	 * @param args

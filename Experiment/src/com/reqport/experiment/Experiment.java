@@ -16,10 +16,6 @@ public class Experiment {
 	public Experiment() {
 	}
 	
-	public void oneChange()
-	{
-		
-	}
 	
 	public void addedInFeature2()
 	{
@@ -31,7 +27,6 @@ public class Experiment {
 	int f3 ;
 	
 	int changeFromOtherUser ;
-	int changeFromOtherUser2 ;
 
 	/**
 	 * @param args

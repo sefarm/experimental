@@ -16,10 +16,6 @@ public class Experiment {
 	public Experiment() {
 	}
 	
-	public void oneChange()
-	{
-		
-	}
 	
 	public void addedInFeature2()
 	{

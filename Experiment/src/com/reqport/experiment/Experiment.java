@@ -27,7 +27,6 @@ public class Experiment {
 	int f3 ;
 	
 	int changeFromOtherUser ;
-	int changeFromOtherUser2 ;
 
 	/**
 	 * @param args

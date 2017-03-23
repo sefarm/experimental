@@ -8,6 +8,8 @@ package com.reqport.experiment;
  *
  */
 public class Experiment {
+	
+	int juanMoTime ;
 
 	/**
 	 * 

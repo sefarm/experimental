@@ -9,6 +9,7 @@ package com.reqport.experiment;
  */
 public class Class4 implements IClass {
 
+	int dog ;
 	/**
 	 * 
 	 */

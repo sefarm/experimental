@@ -14,4 +14,6 @@ public class Developer {
 	void dev9() {}
 	
 	void dev10() {}
+	
+	void dev11() {}
 }

@@ -17,6 +17,29 @@ public class Experiment {
 	public Experiment() {
 	}
 	
+
+	public void change6() {}
+
+	public void change5() {}
+
+	public void change4() {}
+
+	public void change3() {}
+	
+	public void change1() {}
+	
+	public void change2() {}
+	
+	public void added()
+	{
+		
+	}
+	
+	public void added2()
+	{
+		
+	}
+	
 	
 	public void addedInFeature2()
 	{
